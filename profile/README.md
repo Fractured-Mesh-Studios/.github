@@ -4,7 +4,7 @@
 ## Description
 **Fractured Mesh Studios** is an organization dedicated to developing innovative video games and high-quality assets. Our mission is to provide immersive experiences and exceptional design resources for both developers and players. We specialize in creating unique and detailed worlds that offer users the opportunity to explore, interact, and enjoy new adventures.
 
-## 📁 Lista de Repositorios
+## 📁 Repository List
 [Main Repository](https://github.com/orgs/Fractured-Mesh-Studios/repositories)
 
 ## 🌟 Vision and Objectives
