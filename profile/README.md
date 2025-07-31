@@ -36,6 +36,11 @@ At Fractured Mesh Studios, we strive for excellence in every project we undertak
 ## 🤝 Contribution
 We would love to have your support and collaboration. If you have ideas, suggestions, or want to contribute your skills, feel free to join our community and participate in our projects.
 
+<div align="center">
+
+[![JoinOurDiscord](https://img.shields.io/badge/Discord-Join%20our%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h2MaKyEQVm)
+
+</div>
 ---
 
 ## 📞 Contact
